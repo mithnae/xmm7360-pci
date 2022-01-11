@@ -48,6 +48,7 @@
 | ------ | ------------- | ------ | ------------------------------------------------------------ |
 | P52    | *?*           | Yes    | [#24](https://github.com/xmm7360/xmm7360-pci/issues/24)      |
 | P53    | *? (various)* | Yes    | [#2.1](https://github.com/xmm7360/xmm7360-pci/issues/2#issuecomment-574969366), [#2.2](https://github.com/xmm7360/xmm7360-pci/issues/2#issuecomment-605488944), [#2.3](https://github.com/xmm7360/xmm7360-pci/issues/2#issuecomment-713308447) |
+| P53 (20QQ) | AlmaLinux 8.5 | Yes* | elrepo kernel 5.15 |
 
 #### ThinkPad L Series
 
